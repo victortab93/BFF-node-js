@@ -1,0 +1,21 @@
+[
+  {
+    "username": "vicman",
+    "password": "123",
+    "devices": [
+      {
+        "deviceId": "ae686173-c6a0-4e9f-b0f7-a928acb3c796",
+        "userAgent": "PostmanRuntime/7.37.3",
+        "type": "pc",
+        "lastLogin": "2024-06-21T20:56:37.689Z"
+      },
+      {
+        "deviceId": "c9cdbeba-6c85-4859-b59d-1bc2c41c2380",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44",
+        "type": "pc",
+        "lastLogin": "2024-06-21T21:17:07.187Z",
+        "fingerprint": "6faaada4fbd93660a6c34582565b0e34"
+      }
+    ]
+  }
+]
